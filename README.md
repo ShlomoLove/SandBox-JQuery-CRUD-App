@@ -1,7 +1,9 @@
-# hrext05-cruddy-app
+# SandBox JQuery CRUD App
 #CRUD #javascript
 
 ### Ticket #HREXT05
+
+This is a simple JQuery CRUD App I developed during my initial time as a student at Hack Reactor. The app implements the Get Things Done (GTD) philosophy of David Allen. 
 
 Requirements: 
 - [x] Create a basic CRUD framework for future development. 

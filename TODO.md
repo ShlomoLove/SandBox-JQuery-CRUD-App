@@ -13,17 +13,6 @@
 - [x] make sure we do not duplicate data
 - [x] add different values to the item
 
-- Create a Run Tracking App
-- Input will be individual runs 
-- Each run will have different categories: Distance, Time, Date, Pace (pace and time will be added after successfully adding the other categores)
-// the input button with the different categories will put each element into an Object
-// the object will store the data and the graph will call on the object  
-- The Data set will be passed into a graph using C3.js
-- On the App there will be buttons for Input, List, Daily, Monthly and Yearly View
-- The Daily, Monthly and Yearly View buttons will pull up charts representing each those types of view
-- the List View will pull up a list of the runs
-- In the list view the individual runs can be either edited or deleted - This will accomplish the Basic Requirements of the App
-- 
 
 - The App will employ JQuery, JQuey UI and C3.js
 
