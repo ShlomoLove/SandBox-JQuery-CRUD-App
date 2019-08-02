@@ -1,0 +1,37 @@
+body {
+	font-family: 'Raleway';
+	color: white;
+	background-image: linear-gradient(-90deg, #1E90FF, #778899);
+}
+
+
+h5 {
+	font-weight: bold;
+	font-size: 20px ;
+}
+
+#left-side{
+	background-color: #000080;
+	border-color: #F5FFFA;
+	opacity: 0.7; 
+}
+
+#tasksList{
+	/*background-image: linear-gradient(-90deg, #87CEFA, #1E90FF);*/
+}
+
+p {
+	/*background-color: #696969*/
+	color: #696969;
+	font-weight: bold;
+}
+
+li {
+	border-color: #696969
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+#taskBox {
+	background-color: #F0F8FF
+}
